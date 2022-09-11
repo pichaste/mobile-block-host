@@ -4,10 +4,10 @@
 # via personal GitHub
 #
 # Date: 10 September 2022 19:05:27 (UTC)
-
+#
 #=====================================
 # Title: Hosts contributed by Pichaste
-
+#
 0.0.0.0 ocsp.pki.goog
 0.0.0.0 g.doubleclick.net
 0.0.0.0 inappcheck.itunes.apple.com
@@ -38,5 +38,5 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 links.carvana.com
-
+#
 # End of custom host records.
